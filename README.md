@@ -13,6 +13,9 @@ This installer configures [Bit4id Universal Middleware](https://cdn.bit4id.com/e
 
 Other cards, readers, and Linux distributions have not been validated.
 
+![JSignPdf 3.2.1](https://github.com/guelfoweb/cardate-linux-sign/blob/main/cardate-linux-sign-pdf.png)
+
+
 ## Install
 
 Run as your regular user, **not with `sudo`**:
